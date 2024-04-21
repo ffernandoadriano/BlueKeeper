@@ -22,10 +22,15 @@
 - Lista
 
 ### - **Arquitetura de software:**
-- MVC- Model-View-Controller
+- MVC - (Model-View-Controller)
+
+### - **Padrão de projeto:**
+- DAO - (Data Access Object)
+- Factory
 
 ### - **🔨 Ferramentas:**
 - SceneBuilder
+
 
 ## 🚨 Estrutura do projeto no diagrama UML
 
