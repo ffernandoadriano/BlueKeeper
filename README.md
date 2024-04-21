@@ -28,6 +28,9 @@
 - DAO - (Data Access Object)
 - Factory
 
+### - **Modularização:**
+- Foi aplicada a modularização no projeto, pois ela oferece uma abordagem estruturada e organizada para o desenvolvimento. Ao dividir o código em módulos distintos, cada um com sua funcionalidade específica, ganhamos em reutilização, manutenção e escalabilidade.
+
 ### - **🔨 Ferramentas:**
 - SceneBuilder
 
