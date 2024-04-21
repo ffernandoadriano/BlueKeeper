@@ -37,4 +37,6 @@
 
 ## 🚨 Estrutura do projeto no diagrama UML
 
-![BlueKeeper](https://github.com/ffernandoadriano/BlueKeeper/assets/96425026/bf73f992-b23c-433e-8154-dc8233b5c631)
+<p align="center">
+  <img src="https://github.com/ffernandoadriano/BlueKeeper/assets/96425026/bf73f992-b23c-433e-8154-dc8233b5c631" />
+</p>
