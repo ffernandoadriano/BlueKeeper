@@ -31,6 +31,11 @@
 ### - **Modularização:**
 - Foi aplicada a modularização no projeto, pois ela oferece uma abordagem estruturada e organizada para o desenvolvimento. Ao dividir o código em módulos distintos, cada um com sua funcionalidade específica, ganhamos em reutilização, manutenção e escalabilidade.
 
+### - **Persistência de dados:**
+- É possível armazenar os dados de 2 maneiras:
+  * Banco de dados
+  * XML
+
 ### - **🔨 Ferramentas:**
 - SceneBuilder
 
