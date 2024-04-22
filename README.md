@@ -36,6 +36,10 @@
   * Banco de dados
   * XML
 
+### - **🔑 Criptografia:**
+- Todos os dados quando gravados são protegidos:
+  * algoritmo AES
+
 ### - **🔨 Ferramentas:**
 - SceneBuilder
 
