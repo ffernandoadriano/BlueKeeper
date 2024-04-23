@@ -20,6 +20,7 @@
 
 ### - **Tópicos de estruturas de dados:**
 - Lista
+- Vetor
 
 ### - **Arquitetura de software:**
 - MVC - (Model-View-Controller)
